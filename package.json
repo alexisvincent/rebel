@@ -13,7 +13,7 @@
 
   "main": "./build/rebel.js",
 
-  "dev-dependencies": {
+  "devDependencies": {
     "gulp": "^3.8.11",
     "gulp-babel": "^4.0.1"
   }
